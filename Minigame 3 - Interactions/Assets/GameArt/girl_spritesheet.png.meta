@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: e24d3caf53602a445bff919b4b3d9ddc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6978447235962962794
+    second: girl_spritesheet_0
+  - first:
+      213: -4762347680512010350
+    second: girl_spritesheet_1
+  - first:
+      213: 8252950839100376458
+    second: girl_spritesheet_2
+  - first:
+      213: 3213281986192118173
+    second: girl_spritesheet_3
+  - first:
+      213: 652650299967363112
+    second: girl_spritesheet_4
+  - first:
+      213: 636545279003510013
+    second: girl_spritesheet_5
+  - first:
+      213: -3755043243875870600
+    second: girl_spritesheet_6
+  - first:
+      213: -896060581793118391
+    second: girl_spritesheet_7
+  - first:
+      213: 6372383256966261237
+    second: girl_spritesheet_8
+  - first:
+      213: 7460541979700566739
+    second: girl_spritesheet_9
+  - first:
+      213: 2159622169823256246
+    second: girl_spritesheet_10
+  - first:
+      213: -7602578514851762893
+    second: girl_spritesheet_11
+  - first:
+      213: 6566734890205166124
+    second: girl_spritesheet_12
+  - first:
+      213: -8654418959154932065
+    second: girl_spritesheet_13
+  - first:
+      213: -7489333496113662842
+    second: girl_spritesheet_14
+  - first:
+      213: 8774811791625488407
+    second: girl_spritesheet_15
+  - first:
+      213: 2019509417959846152
+    second: girl_spritesheet_16
+  - first:
+      213: 476548256249640266
+    second: girl_spritesheet_17
+  - first:
+      213: 6551974972956512475
+    second: girl_spritesheet_18
+  - first:
+      213: -7622322355654575346
+    second: girl_spritesheet_19
+  - first:
+      213: -4165266506622953137
+    second: girl_spritesheet_20
+  - first:
+      213: -7268923863246780967
+    second: girl_spritesheet_21
+  - first:
+      213: -7334835390159989170
+    second: girl_spritesheet_22
+  - first:
+      213: 7543690272276944830
+    second: girl_spritesheet_23
+  - first:
+      213: -7551615449806701104
+    second: girl_spritesheet_24
+  - first:
+      213: 9114784814367226771
+    second: girl_spritesheet_25
+  - first:
+      213: -4569745549133180033
+    second: girl_spritesheet_26
+  - first:
+      213: 2631718585041794850
+    second: girl_spritesheet_27
+  - first:
+      213: -2635773280289813015
+    second: girl_spritesheet_28
+  - first:
+      213: -77922130812579189
+    second: girl_spritesheet_29
+  - first:
+      213: -7566267749451820729
+    second: girl_spritesheet_30
+  - first:
+      213: 6688045740443124674
+    second: girl_spritesheet_31
+  - first:
+      213: -5376688981986664604
+    second: girl_spritesheet_32
+  - first:
+      213: 8831756730861684168
+    second: girl_spritesheet_33
+  - first:
+      213: -4007844560162385282
+    second: girl_spritesheet_34
+  - first:
+      213: -6174712342350320883
+    second: girl_spritesheet_35
+  - first:
+      213: 8726089389768963751
+    second: girl_spritesheet_36
+  - first:
+      213: -1140314726608088761
+    second: girl_spritesheet_37
+  - first:
+      213: -5026071338501079635
+    second: girl_spritesheet_38
+  - first:
+      213: -5433838651112919004
+    second: girl_spritesheet_39
+  - first:
+      213: -561128562853282751
+    second: girl_spritesheet_40
+  - first:
+      213: -7808597993460454010
+    second: girl_spritesheet_41
+  - first:
+      213: -5981268585454187772
+    second: girl_spritesheet_42
+  - first:
+      213: 4725027638139335813
+    second: girl_spritesheet_43
+  - first:
+      213: 3945988919865330445
+    second: girl_spritesheet_44
+  - first:
+      213: 8929379840792097191
+    second: girl_spritesheet_45
+  - first:
+      213: -8142663702966847688
+    second: girl_spritesheet_46
+  - first:
+      213: -5243454924765294075
+    second: girl_spritesheet_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: girl_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 647
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc48acb81831240a609a8ca8c62fa2
+      internalID: 6978447235962962794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 5762
+        y: 647
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89d4a58ee1dd64fa654daba4a323aa
+      internalID: -4762347680512010350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 331
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be527548ca8c0ed45a84dc938c34bbb4
+      internalID: 8252950839100376458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 352
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac6992047f5094195ff3ce1b0f9c5b
+      internalID: 3213281986192118173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 238
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4e140bbd1c964fb6bcbfbc518f42d
+      internalID: 652650299967363112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3
+        width: 208
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59c8760275c6a4c86624542c3faba5
+      internalID: 636545279003510013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 0
+        width: 205
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4930b586d5fb69e48b32cd10506f873c
+      internalID: -3755043243875870600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 3
+        width: 214
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb935ff98e7802b478d439bec8ffea57
+      internalID: -896060581793118391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 0
+        width: 205
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc1eb42205419d44adfe385f1e5d802
+      internalID: 6372383256966261237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 6
+        width: 217
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4204bacbef7144be5f6b683b51257
+      internalID: 7460541979700566739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 3
+        width: 217
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd325d64256774f9329be103e9d8b0
+      internalID: 2159622169823256246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 0
+        width: 205
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5f2f8292e4c24d91414d430bc0226
+      internalID: -7602578514851762893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 3
+        width: 214
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe69f322465714898f86cd5d5352b6
+      internalID: 6566734890205166124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 0
+        width: 205
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf4396979efea44caf09cdfe2555eb8
+      internalID: -8654418959154932065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5290
+        y: 3
+        width: 208
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe1cadc62154f54bb18b505c6cac03b
+      internalID: -7489333496113662842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 331
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bff85c24710bb4f90cf9cd583df7d3
+      internalID: 8774811791625488407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 352
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450e35c47a35a648864fb50404cceaa
+      internalID: 2019509417959846152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 5774
+        y: 0
+        width: 235
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb82e73b958a993469f09a7d1795ea02
+      internalID: 476548256249640266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 340
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0990f20c97e5b4a898acd2bf774a63
+      internalID: 6551974972956512475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 325
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9cb1d897fe2474fbe14a84f7e33107
+      internalID: -7622322355654575346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 331
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6632f381232ea3d46b11e2bff777d3a0
+      internalID: -4165266506622953137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 272
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ffa1a5e88026343a58de7987968d89
+      internalID: -7268923863246780967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 325
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56335d31707d4c64e9ad214c99e6bbf5
+      internalID: -7334835390159989170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 331
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5526c5e6e00f23d41b1f9e2a6620e2c0
+      internalID: 7543690272276944830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5660
+        y: 272
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3362ea432a41848aedcbe817bde0d6
+      internalID: -7551615449806701104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 308
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8665d6490a78ff49b7598725fdac528
+      internalID: 9114784814367226771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd74e0e13ede14f9432daf1baa3bda
+      internalID: -4569745549133180033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 5569
+        y: 308
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a27d6b135efc4ea36c0309d747559
+      internalID: 2631718585041794850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5601
+        y: 290
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79df0116b2063db4a96d86a4645cca6e
+      internalID: -2635773280289813015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 272
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d7c0adcb70ad41aa234d989ea4495
+      internalID: -77922130812579189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 5777
+        y: 270
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15138d7dab56a2408de5c46a9101ce3
+      internalID: -7566267749451820729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 229
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910e7da2eef189418de241b57aa64d2
+      internalID: 6688045740443124674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 226
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af53e16bbf85ea04f8358957d6c0d5c4
+      internalID: -5376688981986664604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5619
+        y: 229
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777cb1b2743a4944a3df9dfd87b1031
+      internalID: 8831756730861684168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 5639
+        y: 226
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c5a1a4ff7e004ebb18a17ffb0439b
+      internalID: -4007844560162385282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 187
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0acaa05e35e4468633418d58d4d72
+      internalID: -6174712342350320883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 187
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb267702219a25449c8706c43391e76
+      internalID: 8726089389768963751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 187
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5340709a42cc4caf0de0f726892de
+      internalID: -1140314726608088761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 187
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9d5f10f6cf634d93a48d167493a60
+      internalID: -5026071338501079635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 135
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36c633c79c3624b945bfd85d2b71ec
+      internalID: -5433838651112919004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283da8f2c9c3ab45b5fc9c13eae0eae
+      internalID: -561128562853282751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cfbea7c2539df4981cfd203153ea66
+      internalID: -7808597993460454010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d0137bd5003d4395176a3c39bf955
+      internalID: -5981268585454187772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230fc6de0f0cef94a87524aa12257837
+      internalID: 4725027638139335813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 91
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d7cb8d9f2b69c47937a11b94001c9d
+      internalID: 3945988919865330445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 79
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440ea06c1f60bc4587077944422e182
+      internalID: 8929379840792097191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b73c4e2be4eac458b215a03d6e0a6b
+      internalID: -8142663702966847688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 94
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cbd223cb0e99f4f964267d534cf2bf
+      internalID: -5243454924765294075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

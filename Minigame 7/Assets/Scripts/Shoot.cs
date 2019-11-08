@@ -20,7 +20,7 @@ public class Shoot : MonoBehaviour
 
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             if (Physics.Raycast(ray))
-                Instantiate(bullet, bulletPos.position, transform.rotation);
+                Instantiate(bullet, transform.position, transform.rotation);
         }
     }
 }
